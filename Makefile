@@ -14,3 +14,6 @@ lint:
 
 setup:
 	npm install
+
+publish:
+	./scripts/publish
